@@ -1,0 +1,23 @@
+<Configuration>
+    <Appenders>
+        <File name="file" fileName="fauxdango.log" immediateFlush="true" append="true">
+            <PatternLayout pattern="%d{yyy-MM-dd HH:mm:ss.SSS} [%M] %-5level %logger{36} - %msg%n" />
+        </File>
+    </Appenders>
+    <Loggers>
+        <Root level="DEBUG">
+            <AppenderRef ref="file" />
+        </Root>
+    </Loggers>
+</Configuration>
+
+
+
+
+
+
+
+
+
+
+

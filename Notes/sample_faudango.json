@@ -1,0 +1,796 @@
+{
+  "user": {
+    "firstName": "Alan",
+    "lastName": "Smithee",
+    "emailAddress": "axs5123@psu.edu",
+    "pk": 9223372036854775755
+  },
+  "theaters": [
+    {
+      "name": "AMC Neshaminy 24",
+      "streetAddress": "660 Neshaminy Mall",
+      "city": "Bensalem",
+      "state": "PA",
+      "zipCode": "19020",
+      "phoneNumber": "(215) 396-8050",
+      "website": "https://www.amctheatres.com/movie-theatres/philadelphia/amc-neshaminy-24",
+      "auditoriums": [
+        {
+          "number": 1,
+          "showings": [
+            {
+              "movie": {
+                "title": "Top Gun",
+                "description": "Fighter pilot Maverick (Tom Cruise) flies a jet.  Goose dies.",
+                "releaseDate": {
+                  "year": 1986,
+                  "month": 5,
+                  "day": 16
+                },
+                "runningTime": {
+                  "seconds": 6600,
+                  "nanos": 0
+                },
+                "rating": "PG",
+                "genres": [
+                  "ACTION",
+                  "DRAMA"
+                ],
+                "actors": [
+                  {
+                    "firstName": "Tom",
+                    "lastName": "Cruise",
+                    "birthday": {
+                      "year": 1963,
+                      "month": 7,
+                      "day": 3
+                    },
+                    "pk": 1
+                  },
+                  {
+                    "firstName": "Kelly",
+                    "lastName": "McGillis",
+                    "birthday": {
+                      "year": 1957,
+                      "month": 7,
+                      "day": 9
+                    },
+                    "pk": 2
+                  }
+                ],
+                "pk": 1
+              },
+              "startTime": {
+                "hour": 13,
+                "minute": 0,
+                "second": 0,
+                "nano": 0
+              },
+              "pk": 1
+            },
+            {
+              "movie": {
+                "title": "Escape from New York",
+                "description": "Snake Plissken rescues the president",
+                "releaseDate": {
+                  "year": 1981,
+                  "month": 7,
+                  "day": 10
+                },
+                "runningTime": {
+                  "seconds": 5940,
+                  "nanos": 0
+                },
+                "rating": "R",
+                "genres": [
+                  "ACTION"
+                ],
+                "actors": [
+                  {
+                    "firstName": "Donald",
+                    "lastName": "Pleasence",
+                    "birthday": {
+                      "year": 1919,
+                      "month": 10,
+                      "day": 5
+                    },
+                    "pk": 6
+                  },
+                  {
+                    "firstName": "Kurt",
+                    "lastName": "Russell",
+                    "birthday": {
+                      "year": 1951,
+                      "month": 3,
+                      "day": 17
+                    },
+                    "pk": 7
+                  }
+                ],
+                "pk": 4
+              },
+              "startTime": {
+                "hour": 16,
+                "minute": 0,
+                "second": 0,
+                "nano": 0
+              },
+              "pk": 2
+            }
+          ],
+          "seats": [
+            {
+              "rowNum": 0,
+              "seats": [
+                {
+                  "rowNum": 0,
+                  "seatNum": 0,
+                  "pk": 9223372036854775803
+                },
+                {
+                  "rowNum": 0,
+                  "seatNum": 1,
+                  "pk": 9223372036854775802
+                },
+                {
+                  "rowNum": 0,
+                  "seatNum": 2,
+                  "pk": 9223372036854775801
+                },
+                {
+                  "rowNum": 0,
+                  "seatNum": 3,
+                  "pk": 9223372036854775800
+                },
+                {
+                  "rowNum": 0,
+                  "seatNum": 4,
+                  "pk": 9223372036854775799
+                }
+              ]
+            },
+            {
+              "rowNum": 1,
+              "seats": [
+                {
+                  "rowNum": 1,
+                  "seatNum": 0,
+                  "pk": 9223372036854775798
+                },
+                {
+                  "rowNum": 1,
+                  "seatNum": 1,
+                  "pk": 9223372036854775797
+                },
+                {
+                  "rowNum": 1,
+                  "seatNum": 2,
+                  "pk": 9223372036854775796
+                },
+                {
+                  "rowNum": 1,
+                  "seatNum": 3,
+                  "pk": 9223372036854775795
+                },
+                {
+                  "rowNum": 1,
+                  "seatNum": 4,
+                  "pk": 9223372036854775794
+                }
+              ]
+            },
+            {
+              "rowNum": 2,
+              "seats": [
+                {
+                  "rowNum": 2,
+                  "seatNum": 0,
+                  "pk": 9223372036854775793
+                },
+                {
+                  "rowNum": 2,
+                  "seatNum": 1,
+                  "pk": 9223372036854775792
+                },
+                {
+                  "rowNum": 2,
+                  "seatNum": 2,
+                  "pk": 9223372036854775791
+                },
+                {
+                  "rowNum": 2,
+                  "seatNum": 3,
+                  "pk": 9223372036854775790
+                },
+                {
+                  "rowNum": 2,
+                  "seatNum": 4,
+                  "pk": 9223372036854775789
+                }
+              ]
+            },
+            {
+              "rowNum": 3,
+              "seats": [
+                {
+                  "rowNum": 3,
+                  "seatNum": 0,
+                  "pk": 9223372036854775788
+                },
+                {
+                  "rowNum": 3,
+                  "seatNum": 1,
+                  "pk": 9223372036854775787
+                },
+                {
+                  "rowNum": 3,
+                  "seatNum": 2,
+                  "pk": 9223372036854775786
+                },
+                {
+                  "rowNum": 3,
+                  "seatNum": 3,
+                  "pk": 9223372036854775785
+                },
+                {
+                  "rowNum": 3,
+                  "seatNum": 4,
+                  "reservedBy": {
+                    "firstName": "Alan",
+                    "lastName": "Smithee",
+                    "emailAddress": "axs5123@psu.edu",
+                    "pk": 9223372036854775755
+                  },
+                  "pk": 9223372036854775784
+                }
+              ]
+            }
+          ],
+          "pk": 1
+        },
+        {
+          "number": 2,
+          "showings": [
+            {
+              "movie": {
+                "title": "Halloween",
+                "description": "Michael Meyers kills people",
+                "releaseDate": {
+                  "year": 1978,
+                  "month": 10,
+                  "day": 5
+                },
+                "runningTime": {
+                  "seconds": 5460,
+                  "nanos": 0
+                },
+                "rating": "R",
+                "genres": [
+                  "HORROR"
+                ],
+                "actors": [
+                  {
+                    "firstName": "Jaimie Lee",
+                    "lastName": "Curtis",
+                    "birthday": {
+                      "year": 1958,
+                      "month": 11,
+                      "day": 22
+                    },
+                    "pk": 5
+                  },
+                  {
+                    "firstName": "Donald",
+                    "lastName": "Pleasence",
+                    "birthday": {
+                      "year": 1919,
+                      "month": 10,
+                      "day": 5
+                    },
+                    "pk": 6
+                  }
+                ],
+                "pk": 3
+              },
+              "startTime": {
+                "hour": 18,
+                "minute": 0,
+                "second": 0,
+                "nano": 0
+              },
+              "pk": 3
+            },
+            {
+              "movie": {
+                "title": "Top Gun",
+                "description": "Fighter pilot Maverick (Tom Cruise) flies a jet.  Goose dies.",
+                "releaseDate": {
+                  "year": 1986,
+                  "month": 5,
+                  "day": 16
+                },
+                "runningTime": {
+                  "seconds": 6600,
+                  "nanos": 0
+                },
+                "rating": "PG",
+                "genres": [
+                  "ACTION",
+                  "DRAMA"
+                ],
+                "actors": [
+                  {
+                    "firstName": "Tom",
+                    "lastName": "Cruise",
+                    "birthday": {
+                      "year": 1963,
+                      "month": 7,
+                      "day": 3
+                    },
+                    "pk": 1
+                  },
+                  {
+                    "firstName": "Kelly",
+                    "lastName": "McGillis",
+                    "birthday": {
+                      "year": 1957,
+                      "month": 7,
+                      "day": 9
+                    },
+                    "pk": 2
+                  }
+                ],
+                "pk": 1
+              },
+              "startTime": {
+                "hour": 17,
+                "minute": 30,
+                "second": 0,
+                "nano": 0
+              },
+              "pk": 4
+            }
+          ],
+          "seats": [
+            {
+              "rowNum": 0,
+              "seats": [
+                {
+                  "rowNum": 0,
+                  "seatNum": 0,
+                  "pk": 9223372036854775783
+                },
+                {
+                  "rowNum": 0,
+                  "seatNum": 1,
+                  "pk": 9223372036854775782
+                },
+                {
+                  "rowNum": 0,
+                  "seatNum": 2,
+                  "pk": 9223372036854775781
+                }
+              ]
+            },
+            {
+              "rowNum": 1,
+              "seats": [
+                {
+                  "rowNum": 1,
+                  "seatNum": 0,
+                  "pk": 9223372036854775780
+                },
+                {
+                  "rowNum": 1,
+                  "seatNum": 1,
+                  "pk": 9223372036854775779
+                },
+                {
+                  "rowNum": 1,
+                  "seatNum": 2,
+                  "pk": 9223372036854775778
+                }
+              ]
+            },
+            {
+              "rowNum": 2,
+              "seats": [
+                {
+                  "rowNum": 2,
+                  "seatNum": 0,
+                  "pk": 9223372036854775777
+                },
+                {
+                  "rowNum": 2,
+                  "seatNum": 1,
+                  "pk": 9223372036854775776
+                },
+                {
+                  "rowNum": 2,
+                  "seatNum": 2,
+                  "pk": 9223372036854775775
+                }
+              ]
+            },
+            {
+              "rowNum": 3,
+              "seats": [
+                {
+                  "rowNum": 3,
+                  "seatNum": 0,
+                  "pk": 9223372036854775774
+                },
+                {
+                  "rowNum": 3,
+                  "seatNum": 1,
+                  "pk": 9223372036854775773
+                },
+                {
+                  "rowNum": 3,
+                  "seatNum": 2,
+                  "pk": 9223372036854775772
+                }
+              ]
+            },
+            {
+              "rowNum": 4,
+              "seats": [
+                {
+                  "rowNum": 4,
+                  "seatNum": 0,
+                  "pk": 9223372036854775771
+                },
+                {
+                  "rowNum": 4,
+                  "seatNum": 1,
+                  "pk": 9223372036854775770
+                },
+                {
+                  "rowNum": 4,
+                  "seatNum": 2,
+                  "pk": 9223372036854775769
+                }
+              ]
+            },
+            {
+              "rowNum": 5,
+              "seats": [
+                {
+                  "rowNum": 5,
+                  "seatNum": 0,
+                  "pk": 9223372036854775768
+                },
+                {
+                  "rowNum": 5,
+                  "seatNum": 1,
+                  "pk": 9223372036854775767
+                },
+                {
+                  "rowNum": 5,
+                  "seatNum": 2,
+                  "pk": 9223372036854775766
+                }
+              ]
+            }
+          ],
+          "pk": 2
+        }
+      ],
+      "pk": 1
+    },
+    {
+      "name": "Regal UA Oxford Valley",
+      "streetAddress": "403 Middletown Blvd",
+      "city": "Langhorne",
+      "state": "PA",
+      "zipCode": "19047",
+      "phoneNumber": "(844) 462-7342",
+      "website": "https://www.regmovies.com › theatres › regal-ua-oxford-valley",
+      "auditoriums": [
+        {
+          "number": 1,
+          "showings": [
+            {
+              "movie": {
+                "title": "Escape from New York",
+                "description": "Snake Plissken rescues the president",
+                "releaseDate": {
+                  "year": 1981,
+                  "month": 7,
+                  "day": 10
+                },
+                "runningTime": {
+                  "seconds": 5940,
+                  "nanos": 0
+                },
+                "rating": "R",
+                "genres": [
+                  "ACTION"
+                ],
+                "actors": [
+                  {
+                    "firstName": "Donald",
+                    "lastName": "Pleasence",
+                    "birthday": {
+                      "year": 1919,
+                      "month": 10,
+                      "day": 5
+                    },
+                    "pk": 6
+                  },
+                  {
+                    "firstName": "Kurt",
+                    "lastName": "Russell",
+                    "birthday": {
+                      "year": 1951,
+                      "month": 3,
+                      "day": 17
+                    },
+                    "pk": 7
+                  }
+                ],
+                "pk": 4
+              },
+              "startTime": {
+                "hour": 19,
+                "minute": 15,
+                "second": 0,
+                "nano": 0
+              },
+              "pk": 5
+            },
+            {
+              "movie": {
+                "title": "This Is Spinal Tap",
+                "description": "Spinal Tap, is chronicled by film director Marty DiBergi",
+                "releaseDate": {
+                  "year": 1984,
+                  "month": 3,
+                  "day": 2
+                },
+                "runningTime": {
+                  "seconds": 5040,
+                  "nanos": 0
+                },
+                "rating": "R",
+                "genres": [
+                  "COMEDY",
+                  "DOCUMENTARY"
+                ],
+                "actors": [
+                  {
+                    "firstName": "Michael",
+                    "lastName": "McKean",
+                    "birthday": {
+                      "year": 1947,
+                      "month": 10,
+                      "day": 17
+                    },
+                    "pk": 3
+                  },
+                  {
+                    "firstName": "Christopher",
+                    "lastName": "Guest",
+                    "birthday": {
+                      "year": 1948,
+                      "month": 2,
+                      "day": 5
+                    },
+                    "pk": 4
+                  }
+                ],
+                "pk": 2
+              },
+              "startTime": {
+                "hour": 10,
+                "minute": 0,
+                "second": 0,
+                "nano": 0
+              },
+              "pk": 6
+            }
+          ],
+          "seats": [
+            {
+              "rowNum": 0,
+              "seats": [
+                {
+                  "rowNum": 0,
+                  "seatNum": 0,
+                  "pk": 9223372036854775765
+                },
+                {
+                  "rowNum": 0,
+                  "seatNum": 1,
+                  "pk": 9223372036854775764
+                },
+                {
+                  "rowNum": 0,
+                  "seatNum": 2,
+                  "pk": 9223372036854775763
+                }
+              ]
+            },
+            {
+              "rowNum": 1,
+              "seats": [
+                {
+                  "rowNum": 1,
+                  "seatNum": 0,
+                  "pk": 9223372036854775762
+                },
+                {
+                  "rowNum": 1,
+                  "seatNum": 1,
+                  "pk": 9223372036854775761
+                },
+                {
+                  "rowNum": 1,
+                  "seatNum": 2,
+                  "pk": 9223372036854775760
+                }
+              ]
+            },
+            {
+              "rowNum": 2,
+              "seats": [
+                {
+                  "rowNum": 2,
+                  "seatNum": 0,
+                  "pk": 9223372036854775759
+                },
+                {
+                  "rowNum": 2,
+                  "seatNum": 1,
+                  "pk": 9223372036854775758
+                },
+                {
+                  "rowNum": 2,
+                  "seatNum": 2,
+                  "pk": 9223372036854775757
+                }
+              ]
+            }
+          ],
+          "pk": 3
+        },
+        {
+          "number": 2,
+          "showings": [
+            {
+              "movie": {
+                "title": "This Is Spinal Tap",
+                "description": "Spinal Tap, is chronicled by film director Marty DiBergi",
+                "releaseDate": {
+                  "year": 1984,
+                  "month": 3,
+                  "day": 2
+                },
+                "runningTime": {
+                  "seconds": 5040,
+                  "nanos": 0
+                },
+                "rating": "R",
+                "genres": [
+                  "COMEDY",
+                  "DOCUMENTARY"
+                ],
+                "actors": [
+                  {
+                    "firstName": "Michael",
+                    "lastName": "McKean",
+                    "birthday": {
+                      "year": 1947,
+                      "month": 10,
+                      "day": 17
+                    },
+                    "pk": 3
+                  },
+                  {
+                    "firstName": "Christopher",
+                    "lastName": "Guest",
+                    "birthday": {
+                      "year": 1948,
+                      "month": 2,
+                      "day": 5
+                    },
+                    "pk": 4
+                  }
+                ],
+                "pk": 2
+              },
+              "startTime": {
+                "hour": 12,
+                "minute": 45,
+                "second": 0,
+                "nano": 0
+              },
+              "pk": 7
+            },
+            {
+              "movie": {
+                "title": "Halloween",
+                "description": "Michael Meyers kills people",
+                "releaseDate": {
+                  "year": 1978,
+                  "month": 10,
+                  "day": 5
+                },
+                "runningTime": {
+                  "seconds": 5460,
+                  "nanos": 0
+                },
+                "rating": "R",
+                "genres": [
+                  "HORROR"
+                ],
+                "actors": [
+                  {
+                    "firstName": "Jaimie Lee",
+                    "lastName": "Curtis",
+                    "birthday": {
+                      "year": 1958,
+                      "month": 11,
+                      "day": 22
+                    },
+                    "pk": 5
+                  },
+                  {
+                    "firstName": "Donald",
+                    "lastName": "Pleasence",
+                    "birthday": {
+                      "year": 1919,
+                      "month": 10,
+                      "day": 5
+                    },
+                    "pk": 6
+                  }
+                ],
+                "pk": 3
+              },
+              "startTime": {
+                "hour": 23,
+                "minute": 0,
+                "second": 0,
+                "nano": 0
+              },
+              "pk": 8
+            }
+          ],
+          "seats": [
+            {
+              "rowNum": 0,
+              "seats": [
+                {
+                  "rowNum": 0,
+                  "seatNum": 0,
+                  "pk": 9223372036854775756
+                }
+              ]
+            }
+          ],
+          "pk": 4
+        }
+      ],
+      "pk": 2
+    }
+  ],
+  "ads": [
+    {
+      "text": "Drink Pepsi",
+      "pk": 9223372036854775807
+    },
+    {
+      "text": "Buy Candy",
+      "pk": 9223372036854775806
+    },
+    {
+      "text": "Shop at Target",
+      "pk": 9223372036854775805
+    },
+    {
+      "text": "Watch NCIS",
+      "pk": 9223372036854775804
+    }
+  ]
+}

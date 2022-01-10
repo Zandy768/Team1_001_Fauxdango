@@ -1,0 +1,29 @@
+SP = Story Points
+
++------+-----------------------------------------------------------------------------------------------------+----+
+| ID   | User Story                                                                                          | SP |
++------+-----------------------------------------------------------------------------------------------------+----+
+| US01 | As a user, I want to create a shopping cart, so I can check out                                     | 4  |
+| US02 | As a user, I want to earn points, so I can save some money on future purchases                      | 4  |
+| US03 | As a user, I want to post reviews, so opinion is heard                                              | 8  |
+| US04 | As a user, I want to provide purchase information, so I can buy tickets                             | 2  |
+| US05 | As a user, I want to purchase tickets, so I can see the movie                                       | 2  |
+| US06 | As a user, I want to read movie synopsis, so I can learn what the movies are about                  | 2  |
+| US07 | As a user, I want to register for the site, so I can buy tickets                                    | 2  |
+| US08 | As a user, I want to reserve seats, so I can guarantee a spot                                       | 8  |
+| US09 | As a user, I want to search for actors, so I can find movies they are in                            | 4  |
+| US10 | As a user, I want to search for movie locations, so I can find theaters near me                     | 4  |
+| US11 | As a user, I want to search for movie times, so I can find when movies are available                | 4  |
+| US12 | As a user, I want to search for movies, so I can find the movie                                     | 4  |
+| US13 | As a user, I want to see how many tickets for each movie is available                               | 2  |
+| US14 | As a user, I want to see the movies by genre, so I can pick one I like                              | 4  |
+| US15 | As a user, I want to see what movies are playing, so I can decide on a movie                        | 2  |
+| US16 | As a user, I would want to join the rewards program, so I can receive benefits for future purchases | 8  |
+| US17 | As an admin, I want to add a new movie, so I can sell tickets                                       | 4  |
+| US18 | As an admin, I want to create discounts, so I can bring in more customers                           | 2  |
+| US19 | As an admin, I want to remove old movies, so users can no longer buy tickets                        | 2  |
+| US20 | As an admin, I want to save credit card information, to enhance user experience                     | 4  |
+| US21 | As an admin, I want to save sale data, so I can know the most popular movies                        | 8  |
+| US22 | As an admin, I want to show advertisements, so I can make more money                                | 2  |
+| US23 | As an admin, I want to show movie ratings, because it's the law                                     | 1  |
++------+-----------------------------------------------------------------------------------------------------+----+
